@@ -1,0 +1,23 @@
+{
+  "name": "theboard",
+  "version": "0.1.0",
+  "description": "A message board based on sticky notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "Alvaro",
+    "email": ""
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3",
+    "vash": "^0.11.3"
+  },
+  "devDependencies": {}
+}

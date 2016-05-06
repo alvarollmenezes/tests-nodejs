@@ -1,0 +1,17 @@
+{
+  "name": "theboard",
+  "description": "A message board based on sticky notes.",
+  "main": "server.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
